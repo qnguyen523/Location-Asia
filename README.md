@@ -4,7 +4,7 @@
 Organizing real estate news of Vietnam.
 ## SCOPE OF WORK
 The scope of this project Location.asia is to design and develop web services and chrome extensions.  
-Core development:
+Core development:  
 * Group slider by: Property in your area (location-based), Most view property, Most active agents, Related news.
 * Interaction: check mark (agent wants more viewers to this property), question mark (request direct contact info).
 * User profile: wish list (buy | sell).
