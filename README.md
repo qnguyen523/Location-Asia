@@ -35,7 +35,7 @@ Location.asia will have user interfaces that must look the same on iOS, Android,
 ## UI/UX Design:
 Location.asia is an easy to use application. Usability, user-friendly GUI should be the design focus.
 ## Basic instruction:
-* Make sure you have maven install
+* Make sure you have maven installed.
   
 To compile:
 * mvn install // to build  
