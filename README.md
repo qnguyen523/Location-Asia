@@ -6,6 +6,7 @@ Organizing real estate news of Vietnam.
 The scope of this project Location.asia is to design and develop web services and chrome extensions.  
 Core development:
 * Group slider by: Property in your area (location-based), Most view property, Most active agents, Related news.
+* Price estimation: Allow users evaluate the property and give price for automated script estimating price or range.
 * Interaction: check mark (agent wants more viewers to this property), question mark (request direct contact info).
 * User profile: wish list (buy | sell).
 * Browser device location  
