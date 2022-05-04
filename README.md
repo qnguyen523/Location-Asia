@@ -44,6 +44,6 @@ To compile: (using Maven)
 The other way to compile and run:
 * mvn install  && java -jar target/demo-0.0.1-SNAPSHOT.jar
 * mvn clean install && java -jar target/demo-0.0.1-SNAPSHOT.jar
-* mvn spring-boot:run <br />
-To compile: (using Gradle) <br />
+* mvn spring-boot:run <br /> <br />
+To compile: (using Gradle) <br /> 
 * gradle bootRun <br />
